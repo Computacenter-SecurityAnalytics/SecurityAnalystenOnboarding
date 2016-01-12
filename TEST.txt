@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+TEST2 TEST2 TEST2 TEST TEST TEST TEST 
+=======
+<<<<<<< HEAD
 TEST TEST TEST TEST TEST TEST TEST TEST blaahhh
 =======
 Ich mag "Hello World" aber viel lieber!
 >>>>>>> c433f76ea644588d89e8b3f7dce74cc3363aaf76
+>>>>>>> 2fbb0ee6de1d7ac64d55d973ef143d378afeb15e
